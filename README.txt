@@ -7,3 +7,12 @@ O programa funciona através de escolhas de opções numéricas, onde cada uma t
 O usuário sempre começa com 77 moedas de ouro, que podem ser utilizadas com os diferentes NPCs.
 
 Fique à vontade para conhecer a taverna, e cuidado para não derramar hidromel na roupa!
+
+Integrantes do grupo:
+Felipe Peres
+Thiago Silva
+Julia da Silva
+Fabricio Mendoza
+
+
+*Projeto desenvolvido como requisito de avaliação acadêmica.*
