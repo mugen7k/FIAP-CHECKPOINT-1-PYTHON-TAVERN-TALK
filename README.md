@@ -1,14 +1,10 @@
 # 🍻 Tavern Talk
 
-
 **Seja bem vindo à taverna!**
-
 
 Tavern Talk é um programa de menu interativo com temática de RPG medieval. Explore um ambiente imersivo onde você pode interagir com diferentes NPCs, cada um apresentando características e diálogos únicos.
 
-
 ---
-
 
 **🕹️ Como Funciona**
 O programa utiliza um sistema de entrada numérica para navegação. Cada opção escolhida desencadeia uma interação diferente no cenário da taverna.
@@ -19,11 +15,10 @@ Encerrando: Para finalizar a execução, basta selecionar a opção de saída pa
 
 Fique à vontade para explorar todos os cantos da taverna, mas cuidado para não derramar hidromel na roupa!
 
-
 ---
 
-
 👥 Integrantes do Grupo:
+
 Felipe Peres
 
 Thiago Silva
