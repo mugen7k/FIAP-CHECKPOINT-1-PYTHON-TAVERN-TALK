@@ -7,6 +7,7 @@ Tavern Talk é um programa de menu interativo com temática de RPG medieval. Exp
 ---
 
 **🕹️ Como Funciona**
+
 O programa utiliza um sistema de entrada numérica para navegação. Cada opção escolhida desencadeia uma interação diferente no cenário da taverna.
 
 Economia: O usuário inicia sua jornada com 77 moedas de ouro, que podem ser gastas ou utilizadas durante as interações com os NPCs.
